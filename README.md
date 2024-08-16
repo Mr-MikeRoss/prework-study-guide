@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 Upon opening the HTML file you can also open the dev tools and look at the console; There you will see all the topics with another message stating one of the following: "Let's Study HTML," "Let's Study CSS," "Let's Study Javascript," "Let's Study Git." It will change each time the page is refreshed and can be used as a starting point for what to study in that session.
-![alt text](assets/images/screenshot.png)
+![alt text](./assets/screenshot.png)
 
 ## Credits
 
